@@ -1,0 +1,212 @@
+Sn.,Application no,Product,Goods,State
+1,1,Darjeeling Tea (word & logo) ,Agricultural ,West Bengal 
+2,3,Aranmula Kannadi ,Handicraft ,Kerala 
+3,67,Molela Clay Work ,Handicraft ,Rajasthan 
+4,68,Kathputlis of Rajasthan ,Handicraft ,Rajasthan 
+5,97,Leather Toys of Indore ,Handicraft ,Madhya Pradesh 
+6,,Bagh Prints of Madhya,,
+7,98,,Handicraft ,Madhya Pradesh 
+8,,Pradesh ,,
+9,100,Sankheda Furniture ,Handicraft ,Gujarat 
+10,101,Agates of Cambay ,Handicraft ,Gujarat 
+11,,Bell Metal Ware of Datia and,,
+12,102,,Handicraft ,Madhya Pradesh 
+13,5,Salem Fabric ,Handicraft ,Tamil Nadu 
+14,,Tikamgarh ,,
+15,103,Kutch Embroidery ,Handicraft ,Gujarat 
+16,51,Kani Shawl ,Handicraft ,Jammu & Kashmir 
+17,79,Chamba Rumal ,Handicraft ,Himachal Pradesh 
+18,80,Dharwad Pedha ,Food stuff ,Karnataka 
+19,81,Pokkali Rice ,Agricultural ,Kerala 
+20,108,Pipli Applique Work ,Handicraft ,Odisha 
+21,,,3,
+22,,Budithi Bell & Brass Metal,,
+23,89,,Handicraft ,Andhra Pradesh 
+24,8,Solapur Chaddar ,Handicraft ,Maharashtra 
+25,,Craft ,,
+26,96,Thanjavur Doll ,Handicraft ,Tamil Nadu 
+27,104,Santiniketan Leather Goods ,Handicraft ,West Bengal 
+28,105,Nirmal Furniture ,Handicraft ,Telangana 
+29,106,Nirmal Paintings ,Handicraft ,Telangana 
+30,,Andhra Pradesh Leather,,
+31,107,,Handicraft ,Andhra Pradesh 
+32,,Puppetry ,,
+33,111,Malda Laxman Bhog Mango ,Agricultural ,West Bengal 
+34,,Malda Khirsapati (Himsagar),,
+35,9,Solapur Terry Towel ,Handicraft ,Maharashtra 
+36,112,,Agricultural ,West Bengal 
+37,,Mango ,,
+38,113,Malda Fazli Mango ,Agricultural ,West Bengal 
+39,46,Kashmir Pashmina ,Handicraft ,Jammu & Kashmir 
+40,48,Kashmir Sozani Craft ,Handicraft ,Jammu & Kashmir 
+41,109,Naga Mircha ,Agricultural ,Nagaland 
+42,117,Nilgiri (Orthodox) ,Agricultural ,Tamil Nadu 
+43,118,Assam (Orthodox) ,Agricultural ,Assam 
+44,119,Lucknow Chikan Craft ,Handicraft ,Uttar Pradesh 
+45,124,Virupakshi Hill Banana ,Agricultural ,Tamil Nadu 
+46,11,Mysore Silk ,Handicraft ,Karnataka 
+47,126,Sirumalai Hill Banana ,Agricultural ,Tamil Nadu 
+48,120,Feni ,Manufactured ,Goa 
+49,122,Uppada Jamdani Sarees ,Handicraft ,Andhra Pradesh 
+50,,FROM APRIL 2009 ? MARCH 2010 ,,
+51,121,Tirupathi Laddu ,Food stuff ,Andhra Pradesh 
+52,,Mango Malihabadi,,
+53,125,,Agricultural ,Uttar Pradesh 
+54,,Dusseheri ,,
+55,128,Puneri Pagadi ,Handicraft ,Maharashtra 
+56,,Banaras Brocades and,,
+57,19,Kullu Shawl ,Handicraft ,Himachal Pradesh 
+58,99,,Handicraft ,Uttar Pradesh 
+59,,Sarees ,,
+60,127,Tangaliya Shawl ,Handicraft ,Gujarat 
+61,130,Vazhakulam Pineapple ,Agricultural ,Kerala 
+62,131,Devanahalli Pomello ,Agricultural ,Karnataka 
+63,132,Appemidi Mango ,Agricultural ,Karnataka 
+64,133,Kamalapur Red Banana ,Agricultural ,Karnataka 
+65,138,Santipore Saree ,Handicraft ,West Bengal 
+66,,Cannanore Home,,
+67,144,,Handicraft ,Kerala 
+68,21,Madurai Sungudi ,Handicraft ,Tamil Nadu 
+69,,Furnishings ,,
+70,,,4,
+71,43,Peruvian Pisco ,Manufactured ,Peru 
+72,,Sanganeri Hand Block,,
+73,147,,Handicraft ,Rajasthan 
+74,,Printing ,,
+75,,Balaramapuram Sarees and,,
+76,152,,Handicraft ,Kerala 
+77,,Fine Cotton Fabrics ,,
+78,,FROM APRIL 2010? MARCH 2011 ,,
+79,25,Kangra Tea ,Agricultural ,Himachal Pradesh 
+80,142,Bikaneri Bhujia ,Food Stuff ,Rajasthan 
+81,143,Guntur Sannam Chilli ,Agricultural ,Andhra Pradesh 
+82,123,Nashik Valley Wine ,Manufactured ,Maharashtra 
+83,137,Gadwal Sarees ,Handicraft ,Telangana 
+84,149,Kinnauri Shawl ,Handicraft ,Himachal Pradesh 
+85,170,Kasaragod Sarees ,Handicraft ,Kerala 
+86,179,Kuthampully Sarees ,Handicraft ,Kerala 
+87,134,Sandur Lambani Embroidery ,Handicraft ,Karnataka 
+88,,Hand Made Carpet of,,
+89,148,,Handicraft ,Uttar Pradesh 
+90,33,Coorg Orange ,Agricultural ,Karnataka 
+91,,Bhadohi ,,
+92,153,Paithani Sarees and Fabrics ,Handicraft ,Maharashtra 
+93,154,Mahabaleshwar Strawberry ,Agricultural ,Maharashtra 
+94,193,Hyderabad Haleem ,Food Stuff ,Telangana 
+95,140,Champangne,Manufactured ,France 
+96,146,Napa Valley ,Manufactured ,United States of America 
+97,163,Central Travancore Jaggery ,Agricultural ,Kerala 
+98,,Champa Silk Saree And,,
+99,172,,Handicraft ,Chhattisgarh 
+100,,Fabrics ,,
+101,34,Mysore Betel leaf ,Agricultural ,Karnataka 
+102,186,Wayanad Jeerakasala Rice ,Agricultural ,Kerala 
+103,,Wayanad Gandhakasala,,
+104,187,,Agricultural ,Kerala 
+105,,Rice ,,
+106,191,Kota Doria (Logo) ,Handicraft ,Rajasthan 
+107,165,Nashik Grapes ,Agricultural ,Maharashtra 
+108,171,Surat Zari Craft ,Handicraft ,Gujarat 
+109,190,Cheriyal Paintings ,Handicraft ,Telangana 
+110,194,Pembarthi Metal Craft ,Handicraft ,Telangana 
+111,6,Payyannur Pavithra Ring ,Handicraft ,Kerala 
+112,4,Pochampalli Ikat ,Handicraft ,Telangana 
+113,35,Nanjanagud Banana ,Agricultural ,Karnataka 
+114,,,,India 
+115,27,Phulkari ,Handicraft ,
+116,,,,
+117,136,Khandua Saree and Fabrics ,Handicraft ,Odisha 
+118,129,Byadagi Chilli ,Agricultural ,Karnataka 
+119,,,5,
+120,151,Scotch Whisky ,Manufactured ,United Kingdom 
+121,164,Prosciutto di Parma ,Food Stuff ,Italy 
+122,,FROM APRIL 2011 ? MARCH 2012 ,,
+123,183,Bagru Hand Block Print ,Handicraft ,Rajasthan 
+124,20,Bidriware ,Handicraft ,Karnataka 
+125,189,Venkatagiri Sarees ,Handicraft ,Andhra Pradesh 
+126,185,Gir Kesar Mango ,Agricultural ,Gujarat 
+127,23,Channapatna Toys & Dolls ,Handicraft ,Karnataka 
+128,26,Coimbatore Wet Grinder ,Manufactured ,Tamil Nadu 
+129,24,Mysore Rosewood Inlay ,Handicraft ,Karnataka 
+130,31,Kasuti Embroidery ,Handicraft ,Karnataka 
+131,32,Mysore Traditional Paintings ,Handicraft ,Karnataka 
+132,29,Mysore Sandalwood Oil ,Manufactured ,Karnataka 
+133,30,Mysore Sandal soap ,Manufactured ,Karnataka 
+134,,,1,
+135,7,Chanderi Sarees ,Handicraft ,Madhya Pradesh 
+136,28,Srikalahasthi Kalamkari ,Handicraft ,Andhra Pradesh 
+137,22,Orissa Ikat ,Handicraft ,Odisha 
+138,44,Kondapalli Bommallu ,Handicraft ,Andhra Pradesh 
+139,,FROM APRIL 2007 ? MARCH 2008 ,,
+140,37,Madhubani Paintings ,Handicraft ,Bihar 
+141,47,Thanjavur Paintings ,Handicraft ,Tamil Nadu 
+142,53,Silver Filigree of Karimnagar ,Handicraft ,Telangana 
+143,54,Alleppey Coir ,Handicraft ,Kerala 
+144,69,Mysore Malligae ,Agricultural ,Karnataka 
+145,70,Udupi Malligae ,Agricultural ,Karnataka 
+146,,FROM APRIL 2005 ? MARCH 2006 ,,
+147,71,Hadagali Malligae ,Agricultural ,Karnataka 
+148,55,Muga Silk of Assam ,Handicraft ,Assam 
+149,,Temple Jewellery of,,
+150,65,,Handicraft ,Tamil Nadu 
+151,,Nagercoil ,,
+152,17,Navara Rice ,Agricultural ,Kerala 
+153,36,Palakkadan Matta Rice ,Agricultural ,Kerala 
+154,63,Thanjavur Art Plate ,Handicraft ,Tamil Nadu 
+155,76,Ilkal Sarees ,Handicraft ,Karnataka 
+156,,Applique (Khatwa) Work of ,,
+157,10,Kotpad Handloom fabric ,Handicraft ,Odisha 
+158,73,,Handicraft ,Bihar 
+159,,Bihar ,,
+160,,Sujini Embroidery Work of,,
+161,74,,Handicraft ,Bihar 
+162,,Bihar ,,
+163,,Sikki Grass Products of,,
+164,75,,Handicraft ,Bihar 
+165,,Bihar ,,
+166,,,,India 
+167,56,Malabar Pepper ,Agricultural ,
+168,15,Kancheepuram Silk ,Handicraft ,Tamil Nadu 
+169,,,,"(Kerala, Karnataka & Tamilnadu) "
+170,50,Allahabad Surkha Guava ,Agricultural ,Uttar Pradesh 
+171,52,Nakshi Kantha ,Handicraft ,West Bengal 
+172,60,Ganjifa Cards of Mysore ,Handicraft ,Karnataka 
+173,61,Navalgund Durries ,Handicraft ,Karnataka 
+174,62,Karnataka Bronzeware ,Handicraft ,Karnataka 
+175,77,Molakalmuru Sarees ,Handicraft ,Karnataka 
+176,78,Monsooned Malabar Arabica,Agricultural ,India 
+177,85,,,
+178,86,Coffee ,, (Karnataka & Kerala) 
+179,18,Mysore Agarbathi ,Manufactured ,Karnataka 
+180,87,Monsooned Malabar,Agricultural ,India 
+181,114,,,
+182,115,Robusta Coffee ,, (Karnataka & Kerala) 
+183,116,Salem Silk known as Salem,,
+184,94,,Handicraft ,Tamil Nadu 
+185,95,Venpattu ,,
+186,96,,2,
+187,93,Kovai Kora Cotton Sarees ,Handicraft ,Tamil Nadu 
+188,92,Arani Silk ,Handicraft ,Tamil Nadu 
+189,93,,,India 
+190,12,Kota Doria ,Handicraft ,Rajasthan 
+191,72,Alleppey Green Cardamom ,Agricultural ,
+192,73,,,(Kerala & Tamilnadu) 
+193,78,Coorg Green Cardamom ,Agricultural ,Karnataka 
+194,95,East India Leather ,Manufactured ,Tamil Nadu 
+195,,FROM APRIL 2008 ? MARCH 2009 ,,
+196,83,Bastar Dhokra ,Handicraft ,Chattisgarh 
+197,84,Bastar Wooden Craft ,Handicraft ,Chattisgarh 
+198,91,Nirmal Toys and Craft ,Handicraft ,Telangana 
+199,59,Maddalam of Palakkad ,Handicraft ,Kerala 
+200,58,Screw Pine Craft of Kerala ,Handicraft ,Kerala 
+201,16,Bhavani Jamakkalam ,Handicraft ,Tamil Nadu 
+202,64,Swamimalai Bronze Icons ,Handicraft ,Tamil Nadu 
+203,82,Bastar Iron Craft ,Handicraft ,Chattisgarh 
+204,87,Konark Stone carving ,Handicraft ,Odisha 
+205,88,Orissa Pattachitra ,Handicraft ,Odisha 
+206,90,Machilipatnam Kalamkari ,Handicraft ,Andhra Pradesh 
+207,110,Eathomozhy Tall Coconut ,Agricultural ,Tamil Nadu 
+208,,Brass Broidered Coconut,,
+209,57,,Handicraft ,Kerala 
+210,,Shell Crafts of Kerala ,,
+211,66,Blue Pottery of Jaipur ,Handicraft ,Rajasthan 
