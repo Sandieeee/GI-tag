@@ -1,0 +1,619 @@
+Sno.,App.No.,Geographical Indications,Status,Goods,State
+0001,0143,Guntur Sannam Chilli,Registered,Agricultural,Andhra Pradesh
+0002,0121,Tirupathi Laddu,Registered,Food Stuff,Andhra Pradesh
+0003,0433,Bandar Laddu,Registered,Food Stuff,Andhra Pradesh
+0004,0804,Atreyapuram Pootharekulu,Registered,Food Stuff,Andhra Pradesh
+0005,0028,Srikalahasthi Kalamkari,Registered,Handicraft,Andhra Pradesh
+0006,0044,Kondapalli Bommalu,Registered,Handicraft,Andhra Pradesh
+0007,0089,Budithi Bell & Brass Metal Craft,Registered,Handicraft,Andhra Pradesh
+0008,0090,Machilipatnam Kalamkari,Registered,Handicraft,Andhra Pradesh
+0009,0107,Andhra Pradesh Leather Puppetry,Registered,Handicraft,Andhra Pradesh
+0010,0122,Uppada Jamdani Sarees,Registered,Handicraft,Andhra Pradesh
+0011,0189,Venkatagiri Sarees,Registered,Handicraft,Andhra Pradesh
+0012,0198,Mangalagiri Sarees And Fabrics,Registered,Handicraft,Andhra Pradesh
+0013,0203,Bobbili Veena,Registered,Handicraft,Andhra Pradesh
+0014,0215,Dharmavaram Handloom Pattu Sarees And Paavadas,Registered,Handicraft,Andhra Pradesh
+0015,0481,Durgi Stone Carvings,Registered,Handicraft,Andhra Pradesh
+0016,0482,Etikoppaka Toys,Registered,Handicraft,Andhra Pradesh
+0017,0522,Udayagiri Wooden Cutlery,Registered,Handicraft,Andhra Pradesh
+0018,0524,Allagadda Stone Carving,Registered,Handicraft,Andhra Pradesh
+0019,0713,Narasapur Crochet Lace Products,Registered,Handicraft,Andhra Pradesh
+0020,0375,Arunachal Orange,Registered,Agricultural,Arunachal Pradesh
+0021,0803,Arunachal Pradesh Khaw Tai” (Khamti Rice),Registered,Agricultural,Arunachal Pradesh
+0022,0855,Arunachal Pradesh Adi Kekir (Ging,Registered,Agricultural,Arunachal Pradesh
+0023,1068,Arunachal Pradesh Angnyat Millet,Registered,Agricultural,Arunachal Pradesh
+0024,0809,Arunachal Pradesh Yak Churpi,Registered,Food Stuff,Arunachal Pradesh
+0025,0625,Idu Mishmi Textiles,Registered,Handicraft,Arunachal Pradesh
+0026,0810,Arunachal Pradesh Tangsa Textile Product,Registered,Handicraft,Arunachal Pradesh
+0027,0848,Arunachal Pradesh Handmade Car,Registered,Handicraft,Arunachal Pradesh
+0028,0849,Arunachal Pradesh Wancho Wood,Registered,Handicraft,Arunachal Pradesh
+0029,0808,Arunachal Pradesh Apatani Textile,Registered,Handicraft,Arunachal Pradesh
+0030,0811,Arunachal Pradesh Monpa Textile,Registered,Handicraft,Arunachal Pradesh
+0031,0854,Arunachal Pradesh Nyishi Textile,Registered,Handicraft,Arunachal Pradesh
+0032,0861,Arunachal Pradesh Monpa Handmade Paper,Registered,Handicraft,Arunachal Pradesh
+0033,0934,Arunachal Pradesh Adi Textile,Registered,Handicraft,Arunachal Pradesh
+0034,0938,Arunachal Pradesh Galo Textile,Registered,Handicraft,Arunachal Pradesh
+0035,1004,Arunachal Pradesh Adi Apong,Registered,Manufactured,Arunachal Pradesh
+0036,1056,Arunachal Pradesh Dao (Sword),Registered,Manufactured,Arunachal Pradesh
+0037,1069,Arunachal Pradesh Marua Apo (Marua Millet Beverage),Registered,Manufactured,Arunachal Pradesh
+0038,1070,Arunachal Pradesh Tai Khamti Tex,Registered,Handicraft,Arunachal Pradesh
+0039,115 & 118,Assam (Orthodox),Registered,Agricultural,Assam
+0040,0435,Assam Karbi Anglong Ginger,Registered,Agricultural,Assam
+0041,0438,Tezpur Litchi,Registered,Agricultural,Assam
+0042,0439,Joha Rice of Assam,Registered,Agricultural,Assam
+0043,0558,Boka Chaul,Registered,Agricultural,Assam
+0044,0572,Chokuwa Rice of Assam,Registered,Agricultural,Assam
+0045,0609,Kaji Nemu,Registered,Agricultural,Assam
+0046,0963,Bodo Keradapini,Registered,Agriculture,Assam
+0047,0971,Bodo Gongar Dunjia,Registered,Agriculture,Assam
+0048,0975,Bodo Khardwi,Registered,Agriculture,Assam
+0049,0643,Judima,Registered,Manufactured,Assam
+0050,0055,Muga Silk of Assam,Registered,Handicraft,Assam
+0051,0384,Muga Silk of Assam (Logo),Registered,Handicraft,Assam
+0052,0594,Gamosa of Assam,Registered,Handicraft,Assam
+0053,0939,Majuli Mask of Assam,Registered,Handicraft,Assam
+0054,0940,Assam Majuli Manuscript Painting,Registered,Handicraft,Assam
+0055,0959,Bodo Dokhona,Registered,Handicraft,Assam
+0056,0960,Bodo Eri Silk,Registered,Handicraft,Assam
+0057,0961,Bodo Jwmgra,Registered,Handicraft,Assam
+0058,0962,Bodo Gamsa,Registered,Handicraft,Assam
+0059,0965,Bodo Thorkha,Registered,Handicraft,Assam
+0060,0972,Bodo Kham,Registered,Handicraft,Assam
+0061,0973,Bodo Serja,Registered,Handicraft,Assam
+0062,0974,Bodo Sifung,Registered,Handicraft,Assam
+0063,0977,Bodo Gongona,Registered,Handicraft,Assam
+0064,0978,Bodo Jotha,Registered,Handicraft,Assam
+0065,0979,Assam Jaapi,Registered,Handicraft,Assam
+0066,0980,Assam Asharikandi Terracotta Craf,Registered,Handicraft,Assam
+0067,1002,Assam Bihu Dhol,Registered,Handicraft,Assam
+0068,1003,Assam Pani Meteka Craft,Registered,Handicraft,Assam
+0069,1013,Sarthebari Metal Craft,Registered,Handicraft,Assam
+0070,0551,Bhagalpuri Zardalu,Registered,Agricultural,Bihar
+0071,0552,Shahi Litchi of Bihar,Registered,Agricultural,Bihar
+0072,0553,Katarni Rice,Registered,Agricultural,Bihar
+0073,0554,Magahi Paan,Registered,Agricultural,Bihar
+0074,0696,Mithila Makhana,Registered,Agricultural,Bihar
+0075,0801,Marcha Rice,Registered,Agricultural,Bihar
+0076,0584,Silao Khaja,Registered,Food Stuff,Bihar
+0077,0037,Madhubani Painting,Registered,Handicraft,Bihar
+0078,0073,Applique (Khatwa) Work of Bihar,Registered,Handicraft,Bihar
+0079,0074,Sujini Embroidery Work of Bihar,Registered,Handicraft,Bihar
+0080,0075,Sikki Grass Products of Bihar,Registered,Handicraft,Bihar
+0081,0180,Bhagalpur Silk,Registered,Handicraft,Bihar
+0082,0536,Sikki Grass Products of Bihar,Registered,Handicraft,Bihar
+0083,0537,Applique (Khatwa) Work of Bihar,Registered,Handicraft,Bihar
+0084,0538,Sujini Embroidery Work of Bihar,Registered,Handicraft,Bihar
+0085,0656,Manjusha Art,Registered,Handicraft,Bihar
+0086,0611,Jeeraphool,Registered,Agricultural,Chhattisgarh
+0087,0669,Nagri Dubraj,Registered,Agricultural,Chhattisgarh
+0088,0082,Bastar Iron Craft,Registered,Handicraft,Chhattisgarh
+0089,0083,Bastar Dhokra,Registered,Handicraft,Chhattisgarh
+0090,0084,Bastar Wooden Craft,Registered,Handicraft,Chhattisgarh
+0091,0172,Champa Silk Saree And Fabrics,Registered,Handicraft,Chhattisgarh
+0092,0387,Bastar Dhokra (Logo),Registered,Handicraft,Chhattisgarh
+0093,0618,Khola Chilli,Registered,Agricultural,Goa
+0094,0642,Harmal Chilli,Registered,Agricultural,Goa
+0095,0680,Myndoli Banana,Registered,Agricultural,Goa
+0096,0714,Goa Cashew (Kaju Or Caju),Registered,Agricultural,Goa
+0097,0763,Agsechi Vayingim (Agassaim Brinjal),Registered,Agricultural,Goa
+0098,0790,Sat Shiro Bheno (Sat Shirancho Bhendo),Registered,Agricultural,Goa
+0099,0728,Goa Mankurad Mango,Registered,Agricultural,Goa
+0100,0120,Feni,Registered,Manufactured,Goa
+0101,0655,Goan Khaje,Registered,Food Stuff,Goa
+0102,0746,Goan Bebinca,Registered,Food Stuff,Goa
+0103,0185,Gir Kesar Mango,Registered,Agricultural,Gujarat
+0104,0192,Bhalia Wheat,Registered,Agricultural,Gujarat
+0105,0761,Kachchhi Kharek,Registered,Agricultural,Gujarat
+0106,0100,Sankheda Furniture,Registered,Handicraft,Gujarat
+0107,0101,Agates of Cambay,Registered,Handicraft,Gujarat
+0108,0103,Kutch Embroidery,Registered,Handicraft,Gujarat
+0109,0127,Tangaliya Shawl,Registered,Handicraft,Gujarat
+0110,0171,Surat Zari Craft,Registered,Handicraft,Gujarat
+0111,0174,Kachchh Shawls,Registered,Handicraft,Gujarat
+0112,0221,Jamnagari Bandhani,Registered,Handicraft,Gujarat
+0113,0232,Patan Patola,Registered,Handicraft,Gujarat
+0114,0380,RajKot Patola,Registered,Handicraft,Gujarat
+0115,0507,Sankheda Furniture (Logo),Registered,Handicraft,Gujarat
+0116,0508,Agates of Cambay (Logo),Registered,Handicraft,Gujarat
+0117,0509,Kutch Embroidery (Logo),Registered,Handicraft,Gujarat
+0118,0585,Pethapur Printing Blocks,Registered,Handicraft,Gujarat
+0119,0644,Pithora,Registered,Handicraft,Gujarat
+0120,0694,Mata ni Pachhedi,Registered,Handicraft,Gujarat
+0121,0718,Kutch Rogan Craft,Registered,Handicraft,Gujarat
+0122,0756,Kutch Bandhani,Registered,Handicraft,Gujarat
+0123,0838,Gharchola Craft of Gujarat,Registered,Handicraft,Gujarat
+0124,0997,Gujarat Suf Embroidery,Registered,Handicraft,Gujarat
+0125,1063,Ahmedabad Sodagari Block Print,Registered,Handicraft,Gujarat
+0126,1064,Surat Sadeli Craft,Registered,Handicraft,Gujarat
+0127,1090,Bharuch Sujani Weaving,Registered,Handicraft,Gujarat
+0128,1050,Kutch Ajrakh,Registered,Handicraft,Gujarat
+0129,1114,Ambaji White Marble,Registered,Natural,Gujarat
+0130,0025,Kangra Tea,Registered,Agricultural,Himachal Pradesh
+0131,0432,Himachali Kala Zeera,Registered,Agricultural,Himachal Pradesh
+0132,0019,Kullu Shawl,Registered,Handicraft,Himachal Pradesh
+0133,0079,Chamba Rumal,Registered,Handicraft,Himachal Pradesh
+0134,0149,Kinnauri Shawl,Registered,Handicraft,Himachal Pradesh
+0135,381 & 413,Kangra Paintings,Registered,Handicraft,Himachal Pradesh
+0136,0383,Kullu Shawl (Logo),Registered,Handicraft,Himachal Pradesh
+0137,0614,Chamba Chappal,Registered,Handicraft,Himachal Pradesh
+0138,0647,Lahauli Knitted Socks & Gloves,Registered,Handicraft,Himachal Pradesh
+0139,0468,Himachali Chulli Oil,Registered,Manufactured,Himachal Pradesh
+0140,0169,Kolhapuri Chappal,Registered,Handicraft,India (Karnataka & Maharashtra)
+0141,0072,Alleppey Green Cardamom,Registered,Agricultural,"India
+(Kerala & Tamilnadu)"
+0142,49 & 56,Malabar Pepper,Registered,Agricultural,"India (Kerala, Karnataka &
+Tamilnadu)"
+0143,0385,Nagpur Orange,Registered,Agricultural,"India (Maharashtra & Madhya
+Pradesh)"
+0144,0401,Mahoba Desawari Pan,Registered,Agricultural,"India
+(Uttar Pradesh & Madhya Pradesh)"
+0145,0819,Bundelkhand Kathiya Gehu (Whea,Registered,Agriculture,"India
+(Uttar pradesh and madhya pradesh)"
+0146,0602,Chak - Hao,Registered,Agricultural,India (Manipur & Nagaland)
+0147,0239,Warli Painting,Registered,Handicraft,"India (Maharashtra, Gujarat, Dadara & Nagar Haveli,
+Daman Diu"
+0148,0027,Phulkari,Registered,Handicraft,"India (Punjab, Haryana &
+Rajasthan)"
+0149,0085,Mansooned Malabar Arabica Coffee,Registered,Agricultural,India (Karnataka & Kerala)
+0150,0114,Mansooned Malabar Robusta Coffee,Registered,Agricultural,India (Karnataka & Kerala)
+0151,0145,Basmati,Registered,Agricultural,"India
+(Punjab / Haryana / Himachal Pradesh / Delhi / Uttarkhand / Uttar Pradesh / Jammu & Kashmir)"
+0152,0241,Banaganapalle Mangoes,Registered,Agricultural,"India (Telangana & Andhra
+Pradesh"
+0153,0607,Araku Valley Arabica Coffee,Registered,Agricultural,"India
+(Andhra Pradesh & Odisha)"
+0154,0636,Dalle Khursani,Registered,Agricultural,"India
+(Sikkim and West Bengal)"
+0155,0935,Arunachal Pradesh Singpho Phalap (Singpho Tea),Registered,Agricultural,"India (Arunachal Pradesh and
+Assam)"
+0156,1001,Assam Mishing Handloom Product,Registered,Handicraft,"India
+(Assam and Arunachal Pradesh)"
+0157,0635,Kashmir Saffron,Registered,Agricultural,Jammu & Kashmir
+0158,0758,Mushqbudji Rice,Registered,Agricultural,Jammu & Kashmir
+0159,0768,Bhaderwah Rajmash,Registered,Agricultural,Jammu & Kashmir
+0160,0774,Ramban Anardana,Registered,Agricultural,Jammu & Kashmir
+0161,0046,Kashmir Pashmina,Registered,Handicraft,Jammu & Kashmir
+0162,0048,Kashmir Sozani Craft,Registered,Handicraft,Jammu & Kashmir
+0163,0051,Kani Shawl,Registered,Handicraft,Jammu & Kashmir
+0164,0181,Kashmir Paper Machie,Registered,Handicraft,Jammu & Kashmir
+0165,0182,Kashmir Walnut Wood Carving,Registered,Handicraft,Jammu & Kashmir
+0166,0204,Khatamband,Registered,Handicraft,Jammu & Kashmir
+0167,0527,Kashmiri Hand Knotted Carpet,Registered,Handicraft,Jammu & Kashmir
+0168,0755,Basohli Painting,Registered,Handicraft,Jammu & Kashmir
+0169,0765,Rajouri Chikri Wood Craft,Registered,Handicraft,Jammu & Kashmir
+0170,0775,Basohli Pashmina Woolen Product,Registered,Handicraft,Jammu & Kashmir
+0171,0772,Ramban Sulai Honey,Registered,Food Stuff,Jammu & Kashmir
+0172,0807,Udhampur Kaladi,Registered,Food Stuff,Jammu & Kashmir
+0173,0658,Sohrai – Khovar Painting,Registered,Handicraft,Jharkhand
+0174,0033,Coorg Orange,Registered,Agricultural,Karnataka
+0175,0034,Mysore Betel Leaf,Registered,Agricultural,Karnataka
+0176,0035,Nanjanagud Banana,Registered,Agricultural,Karnataka
+0177,0069,Mysore Malligae,Registered,Agricultural,Karnataka
+0178,0070,Udupi Malligae,Registered,Agricultural,Karnataka
+0179,0071,Hadagali Malligae,Registered,Agricultural,Karnataka
+0180,0078,Coorg Green Cardamom,Registered,Agricultural,Karnataka
+0181,0129,Byadagi Chilli,Registered,Agricultural,Karnataka
+0182,0131,Devanahalli Pomello,Registered,Agricultural,Karnataka
+0183,0132,Appemidi Mango,Registered,Agricultural,Karnataka
+0184,0133,Kamalapur Red Banana,Registered,Agricultural,Karnataka
+0185,0199,Udupi Mattu Gulla Brinjal,Registered,Agricultural,Karnataka
+0186,0211,Bangalore Blue Grapes,Registered,Agricultural,Karnataka
+0187,0212,Bangalore Rose Onion,Registered,Agricultural,Karnataka
+0188,0464,Sirsi Supari,Registered,Agricultural,Karnataka
+0189,0593,Gulbarga Tur Dal,Registered,Agricultural,Karnataka
+0190,0604,Coorg Arabica Coffee,Registered,Agricultural,Karnataka
+0191,0606,Chikmagalur Arabica Coffee,Registered,Agricultural,Karnataka
+0192,0608,Bababudangiris Arabica Coffee,Registered,Agricultural,Karnataka
+0193,0745,Indi Limbe,Registered,Agricultural,Karnataka
+0194,0843,Kari Ishad Mango,Registered,Agricultural,Karnataka
+0195,0080,Dharwad Pedha,Registered,Food Stuff,Karnataka
+0196,0011,Mysore Silk,Registered,Handicraft,Karnataka
+0197,0020,Bidriware,Registered,Handicraft,Karnataka
+0198,0023,Channapatna Toys And Dolls,Registered,Handicraft,Karnataka
+0199,0024,Mysore Rosewood Inlay,Registered,Handicraft,Karnataka
+0200,0031,Kasuti Embroidery,Registered,Handicraft,Karnataka
+0201,0032,Mysore Traditional Paintings,Registered,Handicraft,Karnataka
+0202,0060,Ganjifa Cards of Mysore,Registered,Handicraft,Karnataka
+0203,0061,Navalgund Durries,Registered,Handicraft,Karnataka
+0204,0062,Karnataka Bronzeware,Registered,Handicraft,Karnataka
+0205,0076,Ilkal Sarees,Registered,Handicraft,Karnataka
+0206,0077,Molakalmuru Sarees,Registered,Handicraft,Karnataka
+0207,0134,Sandur Lambani Embroidery,Registered,Handicraft,Karnataka
+0208,0210,Guledgudd Khana,Registered,Handicraft,Karnataka
+0209,0213,Kinhal Toys,Registered,Handicraft,Karnataka
+0210,0224,Udupi Sarees,Registered,Handicraft,Karnataka
+0211,0510,Karnataka Bronzeware (Logo),Registered,Handicraft,Karnataka
+0212,0511,Ganjifa cards of Mysore (Logo),Registered,Handicraft,Karnataka
+0213,0512,Navalgund Durries (Logo),Registered,Handicraft,Karnataka
+0214,0532,Mysore Silk (Logo),Registered,Handicraft,Karnataka
+0215,13 & 18,Mysore Agarbathi,Registered,Manufactured,Karnataka
+0216,0029,Mysore Sandalwood Oil,Registered,Manufactured,Karnataka
+0217,0030,Mysore Sandal Soap,Registered,Manufactured,Karnataka
+0218,0017,Navara Rice,Registered,Agricultural,Kerala
+0219,0036,Palakkadan Matta Rice,Registered,Agricultural,Kerala
+0220,0081,Pokkali Rice,Registered,Agricultural,Kerala
+0221,130 & 141,Vazhakulam Pineapple,Registered,Agricultural,Kerala
+0222,0163,Central Travancore Jaggery,Registered,Food Stuff,Kerala
+0223,0186,Wayanad Jeerakasala Rice,Registered,Agricultural,Kerala
+0224,0187,Wayanad Gandhakasala Rice,Registered,Agricultural,Kerala
+0225,0242,Kaipad Rice,Registered,Agricultural,Kerala
+0226,0479,Chengalikodan Nendran Banana,Registered,Agricultural,Kerala
+0227,0543,Nilambur Teak,Registered,Agricultural,Kerala
+0228,0605,Wayanaad Robusta Coffee,Registered,Agricultural,Kerala
+0229,0613,Marayoor Jaggery (Marayoor Sharkara),Registered,Food Stuff,Kerala
+0230,0641,Tirur Betel Leaf (Tirur Vettila),Registered,Agricultural,Kerala
+0231,0686,Attappady Aattukombu Avara,Registered,Agricultural,Kerala
+0232,0687,Attappady Thuvara,Registered,Agricultural,Kerala
+0233,0736,Onattukara Ellu,Registered,Agricultural,Kerala
+0234,0749,Kanthalloor Vattavada Veluthulli,Registered,Agricultural,Kerala
+0235,0752,Kodungallur Pottuvellari,Registered,Agricultural,Kerala
+0236,0003,Aranmula Kannadi (Aranmula Metal Mirror),Registered,Handicraft,Kerala
+0237,0006,Payyannur Pavithra Ring,Registered,Handicraft,Kerala
+0238,0054,Alleppey Coir,Registered,Handicraft,Kerala
+0239,0057,Brass Broidered Coconut Shell Crafts of Kerala,Registered,Handicraft,Kerala
+0240,0058,Screw Pine Craft of Kerala,Registered,Handicraft,Kerala
+0241,0059,Maddalam of Palakkad,Registered,Handicraft,Kerala
+0242,0144,Cannanore Home Furnishings,Registered,Handicraft,Kerala
+0243,0152,Balaramapuram Sarees And Fine Cotton Fabrics,Registered,Handicraft,Kerala
+0244,0170,Kasaragod Sarees,Registered,Handicraft,Kerala
+0245,0179,Kuthampully Sarees,Registered,Handicraft,Kerala
+0246,0225,Chendamangalam Dhoties & Set Mundu,Registered,Handicraft,Kerala
+0247,0402,Kuthampully Dhoties & Set Mundu,Registered,Handicraft,Kerala
+0248,0516,Maddalam of Palakkad (Logo),Registered,Handicraft,Kerala
+0249,0517,Brass Broidered Coconut Shell Crafts of Kerala (Logo),Registered,Handicraft,Kerala
+0250,0518,Screw Pine Craft of Kerala (Logo),Registered,Handicraft,Kerala
+0251,0660,Kuttiattoor Mango (Kuttiattoor Manga),Registered,Agricultural,Kerala
+0252,0662,Edayur Chilli,Registered,Agricultural,Kerala
+0253,0727,Ladakh Seabuckthorn,Registered,Agricultural,Ladakh (UT)
+0254,0729,Ladakh Raktsey Karpo Apricot,Registered,Agricultural,Ladakh (UT)
+0255,0726,Pashmina Wool of Ladakh,Registered,Handicraft,Ladakh (UT)
+0256,0771,Ladakh Shingskos (Wood Carving),Registered,Handicraft,Ladakh (UT)
+0257,0434,Ratlami Sev,Registered,Food Stuff,Madhya Pradesh
+0258,0681,Morena Gajak,Registered,Food Stuff,Madhya Pradesh
+0259,0663,Balaghat Chinnor,Registered,Agricultural,Madhya Pradesh
+0260,0699,Sharbati Gehu,Registered,Agricultural,Madhya Pradesh
+0261,0707,Rewa Sunderja Mango,Registered,Agricultural,Madhya Pradesh
+0262,0813,Ratlam Riyawan Lahsun (Garlic),Registered,Agricultural,Madhya Pradesh
+0263,0007,Chanderi Sarees,Registered,Handicraft,Madhya Pradesh
+0264,0097,Leather Toys of Indore,Registered,Handicraft,Madhya Pradesh
+0265,0098,Bagh Prints of Madhya Pradesh,Registered,Handicraft,Madhya Pradesh
+0266,0102,Bell Metal Ware of Datia and Tikamgarh,Registered,Handicraft,Madhya Pradesh
+0267,0197,Maheshwar Sarees & Fabrics,Registered,Handicraft,Madhya Pradesh
+0268,0388,Bell Metal Ware of Datia And Tikamgarh (Logo),Registered,Handicraft,Madhya Pradesh
+0269,0399,Leather Toys of Indore (LOGO),Registered,Handicraft,Madhya Pradesh
+0270,0505,Bagh Prints of Madhya Pradesh (Logo),Registered,Handicraft,Madhya Pradesh
+0271,0701,Gond Painting of Madhya Pradesh,Registered,Handicraft,Madhya Pradesh
+0272,0697,Wrought Iron Crafts of Dindori,Registered,Handicraft,Madhya Pradesh
+0273,0700,Ujjain Batik Print,Registered,Handicraft,Madhya Pradesh
+0274,0708,Gwalior Handmade Carpet,Registered,Handicraft,Madhya Pradesh
+0275,0709,Waraseoni Handloom Saree & Fab,Registered,Handicraft,Madhya Pradesh
+0276,0710,Jabalpur Stone Craft,Registered,Handicraft,Madhya Pradesh
+0277,0378,Jhabua Kadaknath Black Chicken Meat,Registered,Food Stuff,Madhya Pradesh
+0278,"139, 379 & 497",Alphonso,Registered,Agricultural,Maharashtra
+0279,0154,Mahabaleshwar Strawberry,Registered,Agricultural,Maharashtra
+0280,0165,Nashik Grapes,Registered,Agricultural,Maharashtra
+0281,0240,Kolhapur Jaggery,Registered,Food Stuff,Maharashtra
+0282,0470,Ajara Ghansal Rice,Registered,Agricultural,Maharashtra
+0283,0471,Waigaon Turmeric,Registered,Agricultural,Maharashtra
+0284,0472,Mangalwedha Jowar,Registered,Agricultural,Maharashtra
+0285,0473,Bhiwapur Chilli,Registered,Agricultural,Maharashtra
+0286,0474,Sindhudurg & Ratnagiri Kokum,Registered,Agricultural,Maharashtra
+0287,0476,Waghya Ghevada,Registered,Agricultural,Maharashtra
+0288,0477,Navapur Tur Dal,Registered,Agricultural,Maharashtra
+0289,0478,Ambemohar Rice,Registered,Agricultural,Maharashtra
+0290,0489,Vengurla Cashew,Registered,Agricultural,Maharashtra
+0291,0490,Sangli Raisins,Registered,Agricultural,Maharashtra
+0292,0491,Lasalgaon Onion,Registered,Agricultural,Maharashtra
+0293,0493,Dahanu Gholvad Chikoo,Registered,Agricultural,Maharashtra
+0294,0494,Beed Custard Apple,Registered,Agricultural,Maharashtra
+0295,0495,Jalna Sweet Orange,Registered,Agricultural,Maharashtra
+0296,0496,Sangli Turmeric,Registered,Agricultural,Maharashtra
+0297,0498,Jalgaon Banana,Registered,Agricultural,Maharashtra
+0298,0499,Marathwada Kesar Mango,Registered,Agricultural,Maharashtra
+0299,0500,Purandar Fig,Registered,Agricultural,Maharashtra
+0300,0501,Jalgaon Bharit Brinjal,Registered,Agricultural,Maharashtra
+0301,0502,Solapur Pomegranate,Registered,Agricultural,Maharashtra
+0302,0685,Alibag White Onion,Registered,Agricultural,Maharashtra
+0303,0688,Bhandara Chinoor Rice,Registered,Agricultural,Maharashtra
+0304,0785,Vasmat Haldi (Turmeric),Registered,Agriculture,Maharashtra
+0305,0786,Nandurbar Amchur,Registered,Agriculture,Maharashtra
+0306,0787,Nandurbar Mirchi,Registered,Agriculture,Maharashtra
+0307,0825,Panchincholi Tamarind,Registered,Agriculture,Maharashtra
+0308,0826,Borsuri Tur Dal,Registered,Agriculture,Maharashtra
+0309,0827,Kasti Coriander,Registered,Agriculture,Maharashtra
+0310,0899,Badlapur Jamun,Registered,Agriculture,Maharashtra
+0311,0947,Bahadoli Jamun,Registered,Agriculture,Maharashtra
+0312,0953,Dagdi Jowar of Jalna,Registered,Agriculture,Maharashtra
+0313,0008,Solapur Chaddar,Registered,Handicraft,Maharashtra
+0314,0009,Solapur Terry Towel,Registered,Handicraft,Maharashtra
+0315,0128,Puneri Pagadi,Registered,Handicraft,Maharashtra
+0316,150 & 153,Paithani Sarees And Fabrics,Registered,Handicraft,Maharashtra
+0317,0812,Sawantwadi Ganjifa Cards,Registered,Handicraft,Maharashtra
+0318,0390,Karvath Kati Tussar Sarees And Fabrics,Registered,Handicraft,Maharashtra
+0319,0791,Miraj Tanpura,Registered,Handicraft,Maharashtra
+0320,0792,Hupari Silver Craft,Registered,Handicraft,Maharashtra
+0321,0793,Miraj Sitar,Registered,Handicraft,Maharashtra
+0322,0806,Sawantwadi Wooden Craft,Registered,Handicraft,Maharashtra
+0323,0949,Pen Ganesh Idol,Registered,Handicraft,Maharashtra
+0324,0952,Kavdi Maal of Tuljapur,Registered,Handicraft,Maharashtra
+0325,0123,Nashik Valley Wine,Registered,Manufactured,Maharashtra
+0326,0950,Kunthalgiri Khawa,Registered,Food stuff,Maharashtra
+0327,0466,Kachai Lemon,Registered,Agricultural,Manipur
+0328,0590,Tamenglong Orange,Registered,Agricultural,Manipur
+0329,0592,Sirarakhong Hathei,Registered,Agricultural,Manipur
+0330,0371,Shaphee Lanphee,Registered,Handicraft,Manipur
+0331,0372,Wangkhei Phee,Registered,Handicraft,Manipur
+0332,0373,Moirang Phee,Registered,Handicraft,Manipur
+0333,0437,Memong Narang,Registered,Agricultural,Meghalaya
+0334,0465,Khasi Mandarin,Registered,Agricultural,Meghalaya
+0335,0741,Lakadong Turmeric,Registered,Agriculture,Meghalaya
+0336,1094,Meghalaya Garo Textile,Registered,Handicraft,Meghalaya
+0337,1095,Meghalaya Lyrnai Pottery,Registered,Handicraft,Meghalaya
+0338,1096,Meghalaya Chubitchi,Registered,Manufactured,Meghalaya
+0339,0377,Mizo Chilli,Registered,Agricultural,Mizoram
+0340,629 & 630,Mizo Ginger,Registered,Agricultural,Mizoram
+0341,0582,Tawlhlohpuan,Registered,Handicraft,Mizoram
+0342,0583,Mizo Puanchei,Registered,Handicraft,Mizoram
+0343,0586,Pawndum,Registered,Handicraft,Mizoram
+0344,0587,Ngotekherh,Registered,Handicraft,Mizoram
+0345,0588,Hmaram,Registered,Handicraft,Mizoram
+0346,0109,Naga Mircha,Registered,Agricultural,Nagaland
+0347,0374,Naga Tree Tomato,Registered,Agricultural,Nagaland
+0348,0640,Naga Cucumber,Registered,Agricultural,Nagaland
+0349,0542,Chakhesang Shawls,Registered,Handicraft,Nagaland
+0350,0229,Ganjam Kewda Flower,Registered,Agricultural,Odisha
+0351,0610,Kandhamal Haladi,Registered,Agricultural,Odisha
+0352,0739,Nayagarh Kanteimundi Brinjal,Registered,Agricultural,Odisha
+0353,0814,Koraput Kalajeera Rice,Registered,Agricultural,Odisha
+0354,0612,Odisha Rasagola,Registered,Food Stuff,Odisha
+0355,0802,Kendrapara Rasabali,Registered,Food Stuff,Odisha
+0356,0690,Odisha Khajuri Guda,Registered,Food Stuff,Odisha
+0357,0724,Dhenkanal Magji,Registered,Food Stuff,Odisha
+0358,0725,Similipal Kai Chutney of Odisha,Registered,Food Stuff,Odisha
+0359,0010,Kotpad Handloom Fabric,Registered,Handicraft,Odisha
+0360,0022,Orissa Ikat,Registered,Handicraft,Odisha
+0361,86 & 108,Pipli Applique Work,Registered,Handicraft,Odisha
+0362,87 & 544,Konark Stone Carving,Registered,Handicraft,Odisha
+0363,0088,Orissa Pattachitra,Registered,Handicraft,Odisha
+0364,0136,Khandua Saree And Fabrics,Registered,Handicraft,Odisha
+0365,0167,Gopalpur Tussar Fabrics,Registered,Handicraft,Odisha
+0366,0207,Dhalapathar Parda & Fabrics,Registered,Handicraft,Odisha
+0367,0208,Sambalpuri Bandha Saree & Fabrics,Registered,Handicraft,Odisha
+0368,0217,Bomkai Saree & Fabrics,Registered,Handicraft,Odisha
+0369,0219,Habaspuri Saree & Fabrics,Registered,Handicraft,Odisha
+0370,0220,Berhampur Patta (Phoda Kumbha) Saree & Joda,Registered,Handicraft,Odisha
+0371,0386,Orissa Pattachitra (Logo),Registered,Handicraft,Odisha
+0372,0773,Kapadaganda: Dungaria Kondh Embroidery Shawl,Registered,Handicraft,Odisha
+0373,0871,"Painting of Lanjia Saura (IDITAL),",Registered,Handicraft,Odisha
+0374,0767,Cuttack Rupa Tarakasi (Silver Filig,Registered,Handicraft,Odisha
+0375,0228,Ganjam Kewda Rooh,Registered,Manufactured,Odisha
+0376,0201,Villianur Terracotta Works,Registered,Handicraft,Pondicherry
+0377,0202,Tirukanur Papier Mache Craft,Registered,Handicraft,Pondicherry
+0378,0142,Bikaneri Bhujia,Registered,Food Stuff,Rajasthan
+0379,0628,Sojat Mehndi,Registered,Agricultural,Rajasthan
+0380,0012,Kota Doria,Registered,Handicraft,Rajasthan
+0381,0066,Blue Pottery of Jaipur,Registered,Handicraft,Rajasthan
+0382,0067,Molela Clay Work,Registered,Handicraft,Rajasthan
+0383,0068,Kathputlis of Rajasthan,Registered,Handicraft,Rajasthan
+0384,0147,Sanganeri Hand Block Printing,Registered,Handicraft,Rajasthan
+0385,0183,Bagru Hand Block Print,Registered,Handicraft,Rajasthan
+0386,0191,Kota Doria (Logo),Registered,Handicraft,Rajasthan
+0387,0244,Thewa Art Work,Registered,Handicraft,Rajasthan
+0388,0519,Pokaran Pottery,Registered,Handicraft,Rajasthan
+0389,0539,Molela Clay Work  of Rajasthan (Logo),Registered,Handicraft,Rajasthan
+0390,0540,Blue Pottery of Jaipur (Logo),Registered,Handicraft,Rajasthan
+0391,0541,Kathputlis of Rajasthan (Logo),Registered,Handicraft,Rajasthan
+0392,0748,Nathdwara Pichhwai Painting,Registered,Handicraft,Rajasthan
+0393,0747,Udaipur Koftgari Metal Craft,Registered,Handicraft,Rajasthan
+0394,0750,Bikaner Kashidakari Craft,Registered,Handicraft,Rajasthan
+0395,0751,Jodhpur Bandhej Craft,Registered,Handicraft,Rajasthan
+0396,0753,Bikaner Usta Kala Craft,Registered,Handicraft,Rajasthan
+0397,0405,Makrana Marble,Registered,Natural,Rajasthan
+0398,0376,Sikkim Large Cardamom,Registered,Agricultural,Sikkim
+0399,0110,Eathomozhy Tall Coconut,Registered,Agricultural,Tamil Nadu
+0400,116 &117,Nilgiri (Orthodox) Logo,Registered,Agricultural,Tamil Nadu
+0401,0124,Virupakshi Hill Banana,Registered,Agricultural,Tamil Nadu
+0402,0126,Sirumalai Hill Banana,Registered,Agricultural,Tamil Nadu
+0403,0231,Erode Manjal (Erode Turmeric),Registered,Agricultural,Tamil Nadu
+0404,0238,Madurai Malli,Registered,Agricultural,Tamil Nadu
+0405,0616,Kodaikanal Malai Poondu,Registered,Agricultural,Tamil Nadu
+0406,0675,Kanniyakumari Clove,Registered,Agricultural,Tamil Nadu
+0407,0720,Ramnathapuram Mundu Chilli,Registered,Agricultural,Tamil Nadu
+0408,0788,Vellore Spiny Brinjal,Registered,Agricultural,Tamil Nadu
+0409,0719,Authoor Vetrilai,Registered,Agricultural,Tamil Nadu
+0410,0734,Cumbum Panneer Thratchai,Registered,Agricultural,Tamil Nadu
+0411,0789,Sholavandan Vetrilai,Registered,Agricultural,Tamil Nadu
+0412,0757,Kanyakumari Matti Banana,Registered,Agricultural,Tamil Nadu
+0413,0403,Srivilliputtur Palkova,Registered,Food Stuff,Tamil Nadu
+0414,0486,Kovilpatti Kadalai Mittai,Registered,Food Stuff,Tamil Nadu
+0415,0550,Palani Panchamirtham,Registered,Food Stuff,Tamil Nadu
+0416,0488,Manapparai Murukku,Registered,Food Stuff,Tamil Nadu
+0417,0529,Ooty Varkey,Registered,Food Stuff,Tamil Nadu
+0418,0691,Udangudi Panangkarupatti,Registered,Food Stuff,Tamil Nadu
+0419,0711,Salem Sago (Javvarisi),Registered,Food Stuff,Tamil Nadu
+0420,0800,Marthandam Honey,Registered,Food Stuff,Tamil Nadu
+0421,0005,Salem Fabric,Registered,Handicraft,Tamil Nadu
+0422,0015,Kancheepuram Silk,Registered,Handicraft,Tamil Nadu
+0423,0016,Bhavani Jamakkalam,Registered,Handicraft,Tamil Nadu
+0424,0021,Madurai Sungudi,Registered,Handicraft,Tamil Nadu
+0425,0047,Thanjavur Painting,Registered,Handicraft,Tamil Nadu
+0426,0063,Thanjavur Art Plate,Registered,Handicraft,Tamil Nadu
+0427,0064,Swamimalai Bronze Icons,Registered,Handicraft,Tamil Nadu
+0428,0065,Temple Jewellery of Nagercoil,Registered,Handicraft,Tamil Nadu
+0429,0092,Arani Silk,Registered,Handicraft,Tamil Nadu
+0430,0093,Kovai Kora Cotton Sarees,Registered,Handicraft,Tamil Nadu
+0431,0094,Salem Silk know as Salem Venpattu,Registered,Handicraft,Tamil Nadu
+0432,0096,Thanjavur Doll,Registered,Handicraft,Tamil Nadu
+0433,0135,Toda Embroidery,Registered,Handicraft,Tamil Nadu
+0434,0195,Pattamadai Pai ("Pattamadai Mat"),Registered,Handicraft,Tamil Nadu
+0435,0196,Nachiarkoil Kuthuvilakku ("Nachiarkoil Lamp"),Registered,Handicraft,Tamil Nadu
+0436,0200,Chettinad Kottan,Registered,Handicraft,Tamil Nadu
+0437,0209,Thanjavur Veenai,Registered,Handicraft,Tamil Nadu
+0438,0422,Kandangi Saree,Registered,Handicraft,Tamil Nadu
+0439,0423,Thanjavur Netti Works,Registered,Handicraft,Tamil Nadu
+0440,0426,Mahabalipuram Stone Sculpture,Registered,Handicraft,Tamil Nadu
+0441,0429,Arumbavur Wood Carvings,Registered,Handicraft,Tamil Nadu
+0442,0480,Thirubuvanam Silk Sarees,Registered,Handicraft,Tamil Nadu
+0443,0513,Thanjavur Art Plate (Logo),Registered,Handicraft,Tamil Nadu
+0444,0514,Swamimalai Bronze Icons (Logo),Registered,Handicraft,Tamil Nadu
+0445,0515,Temple Jewellery of Nagercoil (Logo),Registered,Handicraft,Tamil Nadu
+0446,0424,Karuppur Kalamkari Paintings,Registered,Handicraft,Tamil Nadu
+0447,0431,Kallakurichi Wood Carving,Registered,Handicraft,Tamil Nadu
+0448,0467,Narasinghapettai Nagaswaram,Registered,Handicraft,Tamil Nadu
+0449,0400,Dindigul Locks,Registered,Handicraft,Tamil Nadu
+0450,0428,Myladi Stone Carvings,Registered,Handicraft,Tamil Nadu
+0451,0561,Manamadurai Pottery,Registered,Handicraft,Tamil Nadu
+0452,0574,Thaikkal Rattan Craft,Registered,Handicraft,Tamil Nadu
+0453,0698,Jaderi Namakatti,Registered,Handicraft,Tamil Nadu
+0454,0766,Negamam Cotton Saree,Registered,Handicraft,Tamil Nadu
+0455,0762,Chedibutta Saree,Registered,Handicraft,Tamil Nadu
+0456,0026,Coimbatore Wet Grinder,Registered,Manufactured,Tamil Nadu
+0457,0095,East India Leather,Registered,Manufactured,Tamil Nadu
+0458,0706,Tandur Redgram,Registered,Agricultural,Telangana
+0459,0193,Hyderabad Haleem,Registered,Food Stuff,Telangana
+0460,0004,Pochampally Ikat,Registered,Handicraft,Telangana
+0461,0053,Silver Filigree of Karimnagar,Registered,Handicraft,Telangana
+0462,0091,Nirmal Toys and Craft,Registered,Handicraft,Telangana
+0463,0105,Nirmal Furniture,Registered,Handicraft,Telangana
+0464,0106,Nirmal Paintings,Registered,Handicraft,Telangana
+0465,0137,Gadwal Sarees,Registered,Handicraft,Telangana
+0466,0188,Siddipet Gollabama,Registered,Handicraft,Telangana
+0467,0190,Cheriyal Paintings,Registered,Handicraft,Telangana
+0468,0194,Pembarthi Metal Craft,Registered,Handicraft,Telangana
+0469,0214,Narayanpet Handloom Sarees,Registered,Handicraft,Telangana
+0470,0521,Adilabad Dokra,Registered,Handicraft,Telangana
+0471,0523,Warangal Durries,Registered,Handicraft,Telangana
+0472,0562,Pochampally Ikat (Logo),Registered,Handicraft,Telangana
+0473,0599,Telia Rumal,Registered,Handicraft,Telangana
+0474,0917,Hyderabad Lac Bangles,Registered,Handicraft,Telangana
+0475,0436,Tripura Queen Pineapple,Registered,Agricultural,Tripura
+0476,0893,Tripura Risa Textile,Registered,Handicraft,Tripura
+0477,1071,Tripura Pachra-Rignai Textile,Registered,Handicraft,Tripura
+0478,1072,Tripura Matabari Peda (Sweet),Registered,Food stuff,Tripura
+0479,0050,Allahabad Surkha Guava,Registered,Agricultural,Uttar Pradesh
+0480,0125,Mango Malihabadi Dusseheri,Registered,Agricultural,Uttar Pradesh
+0481,0205,Kalanamak Rice,Registered,Agricultural,Uttar Pradesh
+0482,0206,Rataul Mango,Registered,Agricultural,Uttar Pradesh
+0483,0715,Adamchini Chawal,Registered,Agricultural,Uttar Pradesh
+0484,0668,Pratapgarh Aonla,Registered,Agricultural,Uttar Pradesh
+0485,0716,Banaras Langda Aam (Mango),Registered,Agricultural,Uttar Pradesh
+0486,0717,Ramnagar Bhanta (Brinjal),Registered,Agricultural,Uttar Pradesh
+0487,0730,Banaras Pan (Betel Leaf),Registered,Agricultural,Uttar Pradesh
+0488,0823,Banaras Lal Bharwamirch,Registered,Agriculture,Uttar pradesh
+0489,0833,Chiraigaon Karonda of Varanasi,Registered,Agriculture,Uttar pradesh
+0490,0672,Hathras Hing,Registered,Food Stuff,Uttar Pradesh
+0491,0723,Muzaffarnagar Gur (Jaggery),Registered,Food Stuff,Uttar Pradesh
+0492,0859,Banaras Lal Peda,Registered,Food stuff,Uttar pradesh
+0493,0999,Jaunpur Imarti,Registered,Food stuff,Uttar pradesh
+0494,1000,Banaras Thandai,Registered,Food stuff,Uttar pradesh
+0495,0941,Banaras Tirangi Barfi,Registered,Food stuff,Uttar pradesh
+0496,0099,Banaras Brocades And Sarees,Registered,Handicraft,Uttar Pradesh
+0497,0119,Lucknow Chikan Craft,Registered,Handicraft,Uttar Pradesh
+0498,0148,Hand Made Carpet of Bhadohi,Registered,Handicraft,Uttar Pradesh
+0499,155 & 156,Firozabad Glass (Logo),Registered,Handicraft,Uttar Pradesh
+0500,159 & 160,Kanpur Saddlery (Logo),Registered,Handicraft,Uttar Pradesh
+0501,161 & 162,Moradabad Metal Craft (Logo),Registered,Handicraft,Uttar Pradesh
+0502,0177,Varanasi Glass Beads,Registered,Handicraft,Uttar Pradesh
+0503,0178,Khurja Pottery,Registered,Handicraft,Uttar Pradesh
+0504,0184,Saharanpur Wood Craft,Registered,Handicraft,Uttar Pradesh
+0505,0233,Agra Durrie,Registered,Handicraft,Uttar Pradesh
+0506,0234,Farrukhabad Prints,Registered,Handicraft,Uttar Pradesh
+0507,0236,Lucknow Zardozi,Registered,Handicraft,Uttar Pradesh
+0508,0237,Banaras Brocades And Sarees (Logo),Registered,Handicraft,Uttar Pradesh
+0509,0397,Banaras Gulabi Meenakari Craft,Registered,Handicraft,Uttar Pradesh
+0510,0398,Banaras Metal Repouse Craft,Registered,Handicraft,Uttar Pradesh
+0511,0457,Varanasi Wooden Lacquerware & Toys,Registered,Handicraft,Uttar Pradesh
+0512,0458,Mirzapur Handmade Dari,Registered,Handicraft,Uttar Pradesh
+0513,0459,Nizamabad Black Clay Pottery,Registered,Handicraft,Uttar Pradesh
+0514,0555,Ghazipur Wall Hanging,Registered,Handicraft,Uttar Pradesh
+0515,0556,Varanasi Soft Stone Jali Work,Registered,Handicraft,Uttar Pradesh
+0516,0619,Gorakhpur Terracotta,Registered,Handicraft,Uttar Pradesh
+0517,0620,Banaras Zardozi,Registered,Handicraft,Uttar Pradesh
+0518,0621,Chunar Glaze Pottery,Registered,Handicraft,Uttar Pradesh
+0519,0622,Mirzapur Pital Bartan,Registered,Handicraft,Uttar Pradesh
+0520,0623,Banaras Wood Carving,Registered,Handicraft,Uttar Pradesh
+0521,0624,Banaras Hand Block Print,Registered,Handicraft,Uttar Pradesh
+0522,0645,Mau Saree,Registered,Handicraft,Uttar Pradesh
+0523,0664,Aligarh Tala,Registered,Handicraft,Uttar Pradesh
+0524,0665,Bakhira Brassware,Registered,Handicraft,Uttar Pradesh
+0525,0666,Banda Shazar Patthar craft,Registered,Handicraft,Uttar Pradesh
+0526,0667,Nagina Wood Craft,Registered,Handicraft,Uttar Pradesh
+0527,0671,Mahoba Gaura Patthar Hastashlip,Registered,Handicraft,Uttar Pradesh
+0528,0673,Mainpuri Tarkashi,Registered,Handicraft,Uttar Pradesh
+0529,0674,Sambhal Horn Craft,Registered,Handicraft,Uttar Pradesh
+0530,0670,Amroha Dholak,Registered,Handicraft,Uttar Pradesh
+0531,0731,Baghpat Home Furnishings,Registered,Handicraft,Uttar Pradesh
+0532,0732,Barabanki Handloom Product,Registered,Handicraft,Uttar Pradesh
+0533,0733,Kalpi Handmade Paper,Registered,Handicraft,Uttar Pradesh
+0534,0722,Jalesar Dhatu Shilp (Metal Craft),Registered,Handicraft,Uttar Pradesh
+0535,0677,Patchwork of Rampur,Registered,Handicraft,Uttar pradesh
+0536,0818,Mathura Sanjhi Craft,Registered,Handicraft,Uttar pradesh
+0537,0822,Banaras Tabla,Registered,Handicraft,Uttar pradesh
+0538,0824,Pilibhit Bansuri,Registered,Handicraft,Uttar pradesh
+0539,0924,Banaras Shehnai,Registered,Handicraft,Uttar pradesh
+0540,0930,Sambhal Bone Craft,Registered,Handicraft,Uttar pradesh
+0541,0933,Moonj Craft of Uttar Pradesh,Registered,Handicraft,Uttar pradesh
+0542,0936,Chitrakoot Wooden Craft & Toys,Registered,Handicraft,Uttar pradesh
+0543,1033,Banaras Mural Painting,Registered,Handicraft,Uttar pradesh
+0544,0820,Pilkhuwa Hand Block Print Textile,Registered,Handicraft,Uttar pradesh
+0545,0923,Banaras Metal Casting Craft,Registered,Handicraft,Uttar pradesh
+0546,0926,Bareilly Cane & Bamboo Craft,Registered,Handicraft,Uttar pradesh
+0547,0928,Tharu Embroidery of Uttar Pradesh,Registered,Handicraft,Uttar pradesh
+0548,0929,Bareilly Zari Zardoji,Registered,Handicraft,Uttar pradesh
+0549,157 & 158,Kannauj Perfume (Logo),Registered,Manufactured,Uttar Pradesh
+0550,0389,Meerut Scissors,Registered,Manufactured,Uttar Pradesh
+0551,0721,Agra Leather Footwear,Registered,Manufactured,Uttar Pradesh
+0552,0557,Chunar Balua Patthar,Registered,Natural,Uttar Pradesh
+0553,0520,Uttarakhand Tejpat,Registered,Agricultural,Uttarakhand
+0554,0650,Kumaon Chyura Oil,Registered,Agricultural,Uttarakhand
+0555,0651,Munsyari Rajma,Registered,Agricultural,Uttarakhand
+0556,0829,Uttarakhand Berinag Tea,Registered,Agricultural,Uttarakhand
+0557,0835,Uttarakhand Mandua,Registered,Agricultural,Uttarakhand
+0558,0841,Uttarakhand Jhangora,Registered,Agricultural,Uttarakhand
+0559,0844,Uttarakhand Gahat,Registered,Agricultural,Uttarakhand
+0560,0852,Uttarakhand Lal Chawal (Red Rice),Registered,Agricultural,Uttarakhand
+0561,0856,Uttarakhand Kala Bhat,Registered,Agricultural,Uttarakhand
+0562,0860,Uttarakhand Malta Fruit,Registered,Agricultural,Uttarakhand
+0563,0863,Uttarakhand Chaulai (Ramdana),Registered,Agricultural,Uttarakhand
+0564,0864,Almora Lakhori Mirchi,Registered,Agricultural,Uttarakhand
+0565,0867,Uttarakhand Pahari Toor Dal,Registered,Agricultural,Uttarakhand
+0566,0905,Ramnagar Nainital Litchi,Registered,Agricultural,Uttarakhand
+0567,0907,Ramgarh Nainital Aadu (Peach),Registered,Agricultural,Uttarakhand
+0568,0589,Bhotia Dann of Uttarakhand,Registered,Handicraft,Uttarakhand
+0569,0648,Uttarakhand Aipan,Registered,Handicraft,Uttarakhand
+0570,0652,Uttarakhand Ringal Craft,Registered,Handicraft,Uttarakhand
+0571,0653,Uttarakhand Tamta Product,Registered,Handicraft,Uttarakhand
+0572,0654,Uttarakhand Thulma,Registered,Handicraft,Uttarakhand
+0573,0832,Uttarakhand Bichhu Buti (Nettle) Fabrics,Registered,Handicraft,Uttarakhand
+0574,0874,Rangwali Pichhoda of Kumaon,Registered,Handicraft,Uttarakhand
+0575,0918,Chamoli Wooden Ramman Mask,Registered,Handicraft,Uttarakhand
+0576,0919,Uttarakhand Likhai (Wood Carving),Registered,Handicraft,Uttarakhand
+0577,0866,Uttarakhand Buransh,Registered,Food Stuff,Uttarakhand
+0578,0873,Nainital Mombatti (Candle),Registered,Manufactured,Uttarakhand
+0579,1 & 2,Darjeeling Tea (word & Logo),Registered,Agricultural,West Bengal
+0580,0111,Malda Laxman Bhog Mango,Registered,Agricultural,West Bengal
+0581,0112,Malda Khirsapati (Himsagar) Mango,Registered,Agricultural,West Bengal
+0582,0113,Malda Fazli Mango,Registered,Agricultural,West Bengal
+0583,0530,Tulaipanji Rice,Registered,Agricultural,West Bengal
+0584,0531,Gobindabhog Rice,Registered,Agricultural,West Bengal
+0585,0743,Kalonunia Rice,Registered,Agricultural,West Bengal
+0586,0525,Bardhaman Sitabhog,Registered,Food Stuff,West Bengal
+0587,0526,Bardhaman Mihidana,Registered,Food Stuff,West Bengal
+0588,0533,Banglar Rasogolla,Registered,Food Stuff,West Bengal
+0589,0769,Sundarban Honey,Registered,Food Stuff,West Bengal
+0590,0052,Nakshi Kantha,Registered,Handicraft,West Bengal
+0591,0104,Santiniketan Leather Goods,Registered,Handicraft,West Bengal
+0592,0138,Santipore Saree,Registered,Handicraft,West Bengal
+0593,0173,Baluchari Saree,Registered,Handicraft,West Bengal
+0594,0176,Dhaniakhali Saree,Registered,Handicraft,West Bengal
+0595,0453,Bankura Panchmura Terracotta Craft,Registered,Handicraft,West Bengal
+0596,0563,Bengal Dokra,Registered,Handicraft,West Bengal
+0597,0564,Bengal Patachitra,Registered,Handicraft,West Bengal
+0598,0565,Purulia Chau Mask,Registered,Handicraft,West Bengal
+0599,0566,Wooden Mask of Kushmandi,Registered,Handicraft,West Bengal
+0600,0567,Madurkathi,Registered,Handicraft,West Bengal
+0601,0702,Tangail Saree of Bengal,Registered,Handicraft,West Bengal
+0602,0703,Garad Saree,Registered,Handicraft,West Bengal
+0603,0704,Korial saree,Registered,Handicraft,West Bengal
+0604,0676,Banglar Muslin,Registered,Handicraft,West Bengal
+0605,0382,Joynagar Moa,Registered,Food Stuff,West Bengal
